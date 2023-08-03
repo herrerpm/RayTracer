@@ -10,4 +10,4 @@ was able to render are the following:
 
 The render from above was featured in the SIGGRAPH 2023, you can find the render in the following link in the section for
 Universidad Panamericana, Ray Tracing in Java from Multimedia and Computer Graphics: 
-[](https://education.siggraph.org/conferences/annual-conference/siggraph-2023/fssw/exhibit)
+[https://education.siggraph.org/conferences/annual-conference/siggraph-2023/fssw/exhibit](https://education.siggraph.org/conferences/annual-conference/siggraph-2023/fssw/exhibit)
